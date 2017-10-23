@@ -1,5 +1,5 @@
 # Luxembourgish language resources
 In this repository I will provide language resources for the Luxembourgish language.
 
-1. Phonetic transcription of the wordlist of the Lëtzebuerger Online Dictionnaire (LOD)
-2. Phonetic transcription of the wordlist of spellchecker.lu
+1. Phonetic transcription of the wordlist of the Lëtzebuerger Online Dictionnaire (LOD) (https://data.public.lu/fr/datasets/letzebuerger-online-dictionnaire-raw-data/, License: Creative Commons Zero (CC0))
+2. Phonetic transcription of the wordlist of spellchecker.lu (https://github.com/spellchecker-lu/dictionary-lb-lu, License: EUPL V.1.1)
