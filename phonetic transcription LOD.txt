@@ -7578,7 +7578,7 @@ embryoen	æ m b ʀ i oː ə n
 ëmgehäit	ə m g ə h æːɪ t
 ëmgéigend	ə m g ɜɪ ʑ ə n t
 ëmgekéiert	ə m g ə k ɜɪ ɐ t
-ëmgeréits	ə m g ə ʀ ɜ ɪ t s
+ëmgeréits	ə m g ə ʀ ɜɪ t s
 ëmgoen	ə m g oː ə n
 ëmgaangen	ə m g aː ŋ ə n
 ëmgruewen	ə m g ʀ uə v ə n
@@ -13874,7 +13874,7 @@ herno	h ɛː ɐ n oː
 heroin	h ɛː w ɛ̃ː
 herpes	h ɛː p ə s
 herrgott	h ɛː ɐ g o t
-herrgottsfréi	h ɛː ɐ g o t s f ʀ ɜ ɪ
+herrgottsfréi	h ɛː ɐ g o t s f ʀ ɜɪ
 herrlech	h ɛː ɐ l ə ɕ
 herrschaft	h ɛː ɐ ʃ ɑ f t
 herrschaften	h ɛː ɐ ʃ ɑ f t ə n
@@ -16775,7 +16775,7 @@ knéikaul	k n ɜɪ k ɑʊ l
 knéikaulen	k n ɜɪ k æːʊ l ə n
 knéischeif	k n ɜɪ ʃ ɑɪ f
 knéischeiwen	k n ɜɪ ʃ ɑɪ v ə n
-knéitschen	k n ɜ ɪ t ʃ ə n
+knéitschen	k n ɜɪ t ʃ ə n
 geknéitscht	g ə k n ɜɪ t ʃ t
 knëppel	k n ə p ə l
 knëppelen	k n ə p ə l ə n
@@ -20753,14 +20753,14 @@ neimoudesch	n ɑɪ m əʊ d ə ʃ
 neiräich	n ɑɪ ʀ æːɪ ɕ
 néirens	n ɜɪ ʀ ə n s
 néirewou	n ɜɪ ʀ ə w əʊ
-néitschen	n ɜ ɪ t ʃ ə n
+néitschen	n ɜɪ t ʃ ə n
 genéitscht	g ə n ɜɪ t ʃ t
-néitschert	n ɜ ɪ t ʃ ɐ t
-néitscherten	n ɜ ɪ t ʃ ɐ t ə n
-néitsen	n ɜ ɪ t s ə n
-genéitst	g ə n ɜ ɪ t s t
-néitsert	n ɜ ɪ t s ɐ t
-néitserten	n ɜ ɪ t s æ ʀ t ə n
+néitschert	n ɜɪ t ʃ ɐ t
+néitscherten	n ɜɪ t ʃ ɐ t ə n
+néitsen	n ɜɪ t s ə n
+genéitst	g ə n ɜɪ t s t
+néitsert	n ɜɪ t s ɐ t
+néitserten	n ɜɪ t s æ ʀ t ə n
 neiwahl	n ɑɪ v aː l
 neiwahlen	n ɑɪ v aː l ə n
 neiwal	n ɑɪ v aː l
@@ -24461,8 +24461,8 @@ propeller	p ʀ o p æ l ɐ
 propelleren	p ʀ o p æ l ə ʀ ə n
 prophéit	p ʀ o p h ɜɪ t
 prophéiten	p ʀ o p h ɜɪ t ə n
-prophéitin	p ʀ o p h ɜ ɪ t i n
-prophéitinnen	p ʀ o p h ɜ ɪ t i n ə n
+prophéitin	p ʀ o p h ɜɪ t i n
+prophéitinnen	p ʀ o p h ɜɪ t i n ə n
 prophet	p ʀ o p h t
 propheten	p ʀ o p h æ ə n
 prophetin	p ʀ o f eː t i n
@@ -28380,7 +28380,7 @@ spéinen	ʃ p ɜɪ n ə n
 gespéint	g ə ʃ p ɜɪ n t
 speis	ʃ p ɑɪ s
 spéit	ʃ p ɜɪ t
-spéitstens	ʃ p ɜ ɪ t s t ə n s
+spéitstens	ʃ p ɜɪ t s t ə n s
 spektakel	ʃ p æ k t aː k ə l
 spektakelen	ʃ p æ k t aː k ə l ə n
 spektakulär	ʃ p æ k t aː k u l ɛː ɐ
@@ -29941,8 +29941,8 @@ téinert	t ɜɪ n ɐ t
 téinerten	t ɜɪ n ɐ t ə n
 teint	t ɑɪ n t
 téiteng	t ɜɪ t e ŋ
-téitsch	t ɜ ɪ t ʃ
-téitschen	t ɜ ɪ t ʃ ə n
+téitsch	t ɜɪ t ʃ
+téitschen	t ɜɪ t ʃ ə n
 getéitscht	g ə t ɜɪ t ʃ t
 telecommande	t e l æ k ɑ̃ː m ɑ n d ə
 telecommanden	t e l æ k ɑ̃ː m ɑ n d ə n
@@ -33920,7 +33920,7 @@ weisheet	v ɑɪ s h eː t
 weisheeten	v ɑɪ s h eː t ə n
 weismaachen	v ɑɪ s m aː χ ə n
 weisgemaach	v ɑɪ s g ə m aː χ
-wéitschen	v ɜ ɪ t ʃ ə n
+wéitschen	v ɜɪ t ʃ ə n
 gewéitscht	g ə v ɜɪ t ʃ t
 wéivillt	v ɜɪ f i l t
 weiwaasser	v ɑɪ v aː s ɐ
@@ -35591,4 +35591,3 @@ zyprioten	ts i p ʀ i oː t ə n
 zypriotesch	ts i p ʀ i oː t ə ʃ
 zypriotin	ts i p ʀ i oː t i n
 zypriotinnen	ts i p ʀ i oː t i n ə n
-
