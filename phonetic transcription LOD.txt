@@ -53,7 +53,7 @@ aarbechtsdoktesch	aː ɐ b ə ɕ t s d o k t ə ʃ
 aarbechtsdokteschen	aː ɐ b ə ɕ t s d o k t ə ʃ ə n
 aarbechtserlaabnes	aː ɐ b ə ɕ ts ɐ l aː b n ə s
 aarbechtserlaabnesser	aː ɐ b ə ɕ ts ɐ l aː b n ə s ɐ
-aarbechtserlaabnis	aː ɐ b ə ɕ ts ɐ l aː b n iː
+aarbechtserlaabnis	aː ɐ b ə ɕ ts ɐ l aː b n i s
 aarbechtserlaabnisser	aː ɐ b ə ɕ ts ɐ l aː b n i s ɐ
 aarbechtsfäeg	aː ɐ b ə ɕ t s f ɛː ə ɕ
 aarbechtsfäheg	aː ɐ b ə ɕ t s f ɛː ə ɕ
@@ -558,7 +558,7 @@ ageschriwwen	ɑ g ə ʃ ʀ i v ə n
 agesinn	ɑ g ə z i n
 ageständnes	ɑ g ə ʃ t æ n t n ə s
 ageständnesser	ɑ g ə ʃ t æ n t n ə s ɐ
-ageständnis	ɑ g ə ʃ t æ n t n iː
+ageständnis	ɑ g ə ʃ t æ n t n i s
 ageständnisser	ɑ g ə ʃ t æ n t n i s ɐ
 agestoen	ɑ g ə ʃ t oː ə n
 agestanen	ɑ g ə ʃ t ɑ n ə n
@@ -2751,7 +2751,7 @@ banker	b ɑ ŋ k ɐ
 bankerin	b æ ŋ k ə ʀ i n
 bankerinnen	b æ ŋ k ə ʀ i n ə n
 bankewiesen	b ɑ ŋ k ə v iə z ə n
-bankgeheimnis	b ɑ ŋ k g ə h ɑɪ m n iː
+bankgeheimnis	b ɑ ŋ k g ə h ɑɪ m n i s
 bankiwwerfall	b ɑ ŋ k i v ɐ f ɑ l
 bankiwwerfäll	b ɑ ŋ k i v ɐ f æ l
 bankkaart	b ɑ ŋ k k aː ʀ t
@@ -2999,7 +2999,7 @@ bedenklech	b ə d æ ŋ k l ə ɕ
 bedenkzäit	b ə d æ ŋ k ts æːɪ t
 bedierfnes	b ə d iː ɐ f n ə s
 bedierfnesser	b ə d iː ɐ f n ə s ɐ
-bedierfnis	b ə d iː ɐ f n iː
+bedierfnis	b ə d iː ɐ f n i s
 bedierfnisser	b ə d iː ɐ f n i s ɐ
 bedingung	b ə d i ŋ g u ŋ
 bedingungen	b ə d i ŋ g u ŋ ə n
@@ -3023,7 +3023,7 @@ beducksen	b ə d u k s ə n
 beduckst	b ə d u k s t
 bedupsen	b ə d u p s ə n
 bedupst	b ə d u p s t
-bedürfnis	b ə d yː ʀ f n iː
+bedürfnis	b ə d yː ʀ f n i s
 bedürfnisser	b ə d yː ʀ f n i s ɐ
 beduxen	b ə d u k s ə n
 beduxt	b ə d u k s t
@@ -3118,7 +3118,7 @@ begrenzung	b ə g ʀ æ n ts u ŋ
 begrenzungen	b ə g ʀ æ n ts u ŋ ə n
 begriefnes	b ə g ʀ iə f n ə s
 begriefnesser	b ə g ʀ iə f n ə s ɐ
-begriefnis	b ə g ʀ iə f n iː
+begriefnis	b ə g ʀ iə f n i s
 begriefnisser	b ə g ʀ iə f n i s ɐ
 begruewen	b ə g ʀ uə v ə n
 behaapten	b ə h aː p t ə n
@@ -3597,7 +3597,7 @@ bestielen	b ə ʃ t iə l ə n
 bestuel	b ə ʃ t uə l
 bestietnes	b ə ʃ t iə t n ə s
 bestietnesser	b ə ʃ t iə t n ə s ɐ
-bestietnis	b ə ʃ t iə t n iː
+bestietnis	b ə ʃ t iə t n i s
 bestietnisser	b ə ʃ t iə t n i s ɐ
 bestoen	b ə ʃ t oː ə n
 bestanen	b ə ʃ t ɑ n ə n
@@ -6135,7 +6135,7 @@ dëschnopesch	d ə ʃ n oː p ə ʃ
 dëschnopeschen	d ə ʃ n oː p ə ʃ ə n
 dëschtel	d ə ʃ t ə l
 dëschtelen	d ə ʃ t ə l ə n
-dëschtennis	d ə ʃ t æ n iː
+dëschtennis	d ə ʃ t æ n i s
 dëschtennisclub	d ə ʃ t æ n i s k l u p
 dëschtennisclibb	d ə ʃ t æ n i s k l i p
 dësem	d ə z ə m
@@ -8555,7 +8555,7 @@ erduerchgoen	ɐ d uː ɐ ɕ g oː ə n
 erduerchgaangen	ɐ d uː ɐ ɕ g aː ŋ ə n
 ereegnes	ə ʀ eː ʑ n ə s
 ereegnesser	ə ʀ eː ʑ n æ s ɐ
-ereegnis	ə ʀ eː ʑ n iː
+ereegnis	ə ʀ eː ʑ n i s
 ereegnisser	ə ʀ eː ʑ n i s ɐ
 erëffnung	ɐ ə f n u ŋ
 erëffnungen	ɐ ə f n u ŋ ə n
@@ -8744,7 +8744,7 @@ erkennen	ɐ k æ n ə n
 erkannt	ɐ k ɑ n t
 erkenntnes	ɐ k æ n t n ə s
 erkenntnesser	ɐ k æ n t n ə s ɐ
-erkenntnis	ɐ k æ n t n iː
+erkenntnis	ɐ k æ n t n i s
 erkenntnisser	ɐ k æ n t n i s ɐ
 erkläert	ɐ k l ɛː ɐ t
 erklären	ɐ k l ɛː ʀ ə n
@@ -8755,7 +8755,7 @@ erkrabbelt	ɐ k ʀ ɑ b ə l t
 erkréien	ɐ k ʀ ɜɪ ə n
 erkritt	ɐ k ʀ i t
 erlaabnes	ɐ l aː b n ə s
-erlaabnis	ɐ l aː b n iː
+erlaabnis	ɐ l aː b n i s
 erlaanscht	ɐ l aː n ʃ t
 erlaben	ɐ l aː b ə n
 erlaabt	ɐ l aː p t
@@ -8770,7 +8770,7 @@ erleuchtung	ɐ l œː ɕ t u ŋ
 erleuchtungen	ɐ l œː ɕ t u ŋ ə n
 erliefnes	ɐ l iə f n ə s
 erliefnesser	ɐ l iə f n ə s ɐ
-erliefnis	ɐ l iə f n iː
+erliefnis	ɐ l iə f n i s
 erliefnisser	ɐ l iə f n i s ɐ
 erliewen	ɐ l iə v ə n
 erlieft	ɐ l iə f t
@@ -9064,7 +9064,7 @@ erspueren	ɐ ʃ p uː ɐ ʀ ə n
 erspuert	ɐ ʃ p uː ɐ t
 erspuernes	ɐ ʃ p uː ɐ n ə s
 erspuernesser	ɐ ʃ p uː ɐ n æ s ɐ
-erspuernis	ɐ ʃ p uː ɐ n iː
+erspuernis	ɐ ʃ p uː ɐ n i s
 erspuernisser	ɐ ʃ p uː ɐ n i s ɐ
 erstaunen	ɐ ʃ t ɑʊ n ə n
 erstaunt	ɐ ʃ t ɑʊ n t
@@ -11723,7 +11723,7 @@ geheimcode	g ə h ɑɪ m k oː d ə
 geheimcoden	g ə h ɑɪ m k oː d ə n
 geheimdéngscht	g ə h ɑɪ m d e ŋ ʃ t
 geheimdéngschter	g ə h ɑɪ m d e ŋ ʃ t ɐ
-geheimnis	g ə h ɑɪ m n iː
+geheimnis	g ə h ɑɪ m n i s
 geheimnisser	g ə h ɑɪ m n i s ɐ
 geheimnisvoll	g ə h ɑɪ m n i s f o l
 geheimnummer	g ə h ɑɪ m n u m ɐ
@@ -12296,7 +12296,7 @@ gestalt	g ə ʃ t ɑ l t
 gestalten	g ə ʃ t ɑ l t ə n
 geständnes	g ə ʃ t æ n t n ə s
 geständnesser	g ə ʃ t æ n t n ə s ɐ
-geständnis	g ə ʃ t æ n t n iː
+geständnis	g ə ʃ t æ n t n i s
 geständnisser	g ə ʃ t æ n t n i s ɐ
 gestank	g ə ʃ t ɑ ŋ k
 geste	ʒ æ s t
@@ -12516,7 +12516,7 @@ glatzerten	g l ɑ ts ɐ t ə n
 glawen	g l aː v ə n
 glawensbekenntnes	g l aː v ə n s b ə k æ n t n ə s
 glawensbekenntnesser	g l aː v ə n s b ə k æ n t n ə s ɐ
-glawensbekenntnis	g l aː v ə n s b ə k æ n t n iː
+glawensbekenntnis	g l aː v ə n s b ə k æ n t n i s
 glawensbekenntnisser	g l aː v ə n s b ə k æ n t n i s ɐ
 glécht	g l e ɕ t
 gléchten	g l e ɕ t ə n
@@ -14027,7 +14027,7 @@ himmelsrichtungen	h i m ə l s ʀ i ɕ t u ŋ ə n
 himmerchen	h i m ɐ ɕ ə n
 himmercher	h i m ɐ ɕ ɐ
 himmlesch	h i m l ə ʃ
-hindernis	h i n d ɛ ʀ n iː
+hindernis	h i n d ɛ ʀ n i s
 hindernisser	h i n d ɐ n i s ɐ
 hindoen	h i n d oː ə n
 higedoen	h i g ə d oː ə n
@@ -16255,7 +16255,7 @@ konnt	k o n t
 kenner	k æ n ɐ
 kenntnes	k æ n t n ə s
 kenntnesser	k æ n t n ə s ɐ
-kenntnis	k æ n t n iː
+kenntnis	k æ n t n i s
 kenntnisser	k æ n t n i s ɐ
 kënschtlech	k ə n ʃ t l ə ɕ
 kënschtler	k ə n ʃ t l ɐ
@@ -20630,7 +20630,7 @@ naturaliséiert	n ɑ t uː ʀ ɑ l i z ɜɪ ɐ t
 naturell	n ɑ t uː ʀ æ l
 naturereegnes	n ɑ t uː ʀ ə ʀ eː ʑ n ə s
 naturereegnesser	n ɑ t uː ʀ ə ʀ eː ʑ n æ s ɐ
-naturereegnis	n ɑ t uː ʀ ə ʀ eː ʑ n iː
+naturereegnis	n ɑ t uː ʀ ə ʀ eː ʑ n i s
 naturereegnisser	n ɑ t uː ʀ ə ʀ eː ʑ n i s ɐ
 naturfoto	n ɑ t uː ʀ f o t oː
 naturfotoen	n ɑ t uː ʀ f o t oː ə n
@@ -22160,7 +22160,7 @@ onversinns	o n f ɐ z i n s
 onverstand	o n f ɐ ʃ t ɑ n t
 onverständlech	o n f ɐ ʃ t æ n d l ə ɕ
 onverständnes	o n f ɐ ʃ t æ n t n ə s
-onverständnis	o n f ɐ ʃ t æ n t n iː
+onverständnis	o n f ɐ ʃ t æ n t n i s
 onverstänneg	o n f ɐ ʃ t æ n ə ɕ
 onverzeilech	o n f ɐ ts ɑɪ l ə ɕ
 onvirbereet	o n f iː ɐ b ə ʀ eː t
@@ -23322,7 +23322,7 @@ péngschten	p e ŋ ʃ t ə n
 péngschtrous	p e ŋ ʃ t ʀ əʊ s
 péngschtrousen	p e ŋ ʃ t ʀ əʊ z ə n
 penibel	p eː n iː b ə l
-penis	p eː n iː
+penis	p eː n i s
 penissen	p eː n iː s ə n
 pénken	p e ŋ k ə n
 gepénkt	g ə p e ŋ k t
@@ -28208,7 +28208,7 @@ sonnenenergie	z o n ə n e n ɛ ʀ ʒ iː
 sonnenënnergang	z o n ə n ə n ɐ g ɑ ŋ
 sonnenënnergäng	z o n ə n ə n ɐ g æ ŋ
 sonnenënnergank	z o n ə n ə n ɐ g ɑ ŋ k
-sonnenfinsternis	z o n ə n f i n s t ɛ ʀ n iː
+sonnenfinsternis	z o n ə n f i n s t ɛ ʀ n i s
 sonnenfinsternissen	z o n ə n f i n s t ɐ n i s ə n
 sonnenhutt	z o n ə n h u t
 sonnenhitt	z o n ə n h i t
@@ -30015,7 +30015,7 @@ tendéiert	t æ n d ɜɪ ɐ t
 tendenz	t æ n d æ n ts
 tendenzen	t æ n d æ n ts ə n
 tendenziell	t æ n d æ n ts j æ l
-tennis	t æ n iː
+tennis	t æ n i s
 tennisclub	t æ n i s k l u p
 tennisclibb	t æ n i s k l i p
 tennisequipe	t æ n i z e k i p
@@ -31876,7 +31876,7 @@ verdiebelen	f ɐ d iə b ə l ə n
 verdiebelt	f ɐ d iə b ə l t
 verdierflech	f ɐ d iː ɐ f l ə ɕ
 verdierfnes	f ɐ d iː ɐ f n ə s
-verdierfnis	f ɐ d iː ɐ f n iː
+verdierfnis	f ɐ d iː ɐ f n i s
 verdierwen	f ɐ d iː ɐ v ə n
 verduerwen	f ɐ d uə v ə n
 verdikt	f ɐ d i k t
@@ -32094,7 +32094,7 @@ verhalt	f ɐ h ɑ l t
 verhältnes	f ɐ h æ l t n ə s
 verhältnesser	f ɐ h æ l t n ə s ɐ
 verhältnesméisseg	f ɐ h æ l t n ə s m ɜɪ s ə ɕ
-verhältnis	f ɐ h æ l t n iː
+verhältnis	f ɐ h æ l t n i s
 verhältnisser	f ɐ h æ l t n i s ɐ
 verhältnisméisseg	f ɐ h æ l t n i s m ɜɪ s ə ɕ
 verhandelen	f ɐ h ɑ n d ə l ə n
@@ -32103,7 +32103,7 @@ verhandlung	f ɐ h ɑ n d l u ŋ
 verhandlungen	f ɐ h ɑ n d l u ŋ ə n
 verhandlungsgeschéck	f ɐ h ɑ n d l u ŋ s g ə ʃ e k
 verhängnes	f ɐ h æ ŋ n ə s
-verhängnis	f ɐ h æ ŋ n iː
+verhängnis	f ɐ h æ ŋ n i s
 verhänken	f ɐ h æ ŋ k ə n
 verhaangen	f ɐ h aː ŋ ə n
 verharmlosen	f ɐ h ɑ ʀ m l oː z ə n
@@ -32304,7 +32304,7 @@ vermaarten	f ɐ m aː ʀ t ə n
 vermaart	f ɐ m aː ʀ t
 vermaartung	f ɐ m aː ʀ t u ŋ
 vermaartungen	f ɐ m aː ʀ t u ŋ ə n
-vermächtnis	f ɐ m æ ɕ t n iː
+vermächtnis	f ɐ m æ ɕ t n i s
 vermächtnisser	f ɐ m æ ɕ t n i s ɐ
 vermasselen	f ɐ m ɑ s ə l ə n
 vermasselt	f ɐ m ɑ s æ l t
@@ -32648,7 +32648,7 @@ verstand	f ɐ ʃ t ɑ n t
 verständlech	f ɐ ʃ t æ n d l ə ɕ
 verständnes	f ɐ ʃ t æ n t n ə s
 verständnesvoll	f ɐ ʃ t æ n t n ə s f o l
-verständnis	f ɐ ʃ t æ n t n iː
+verständnis	f ɐ ʃ t æ n t n i s
 verständnisvoll	f ɐ ʃ t æ n t n i s f o l
 verstänneg	f ɐ ʃ t æ n ə ɕ
 verstännegen	f ɐ ʃ t æ n ə ʑ ə n
@@ -34180,7 +34180,7 @@ wiewerei	v iə v ə ʀ ɑɪ
 wiewereien	v iə v ə ʀ ɑɪ ə n
 wiewerin	v iə v ə ʀ i n
 wiewerinnen	v iə v ə ʀ i n ə n
-wildnis	v i l t n iː
+wildnis	v i l t n i s
 willkür	v i l k y ʀ
 willkürlech	v i l k y ɐ l ə ɕ
 wilwerdang	v i l v ɐ d ɑ ŋ
@@ -35239,7 +35239,7 @@ zougänglech	ts əʊ g æ ŋ l ə ɕ
 zougank	ts əʊ g ɑ ŋ k
 zougeständnes	ts əʊ g ə ʃ t æ n t n ə s
 zougeständnesser	ts əʊ g ə ʃ t æ n t n ə s ɐ
-zougeständnis	ts əʊ g ə ʃ t æ n t n iː
+zougeständnis	ts əʊ g ə ʃ t æ n t n i s
 zougeständnisser	ts əʊ g ə ʃ t æ n t n i s ɐ
 zougestoen	ts əʊ g ə ʃ t oː ə n
 zougestanen	ts əʊ g ə ʃ t ɑ n ə n
