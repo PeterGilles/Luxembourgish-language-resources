@@ -1,0 +1,24 @@
+{
+  "label_smoothing":0.05,
+  "labels":[
+    "$",
+    "ADJ",
+    "APPR",
+    "APPRART",
+    "AUX",
+    "AV",
+    "D",
+    "INTER",
+    "KO",
+    "MV",
+    "MW",
+    "N",
+    "NUM",
+    "P",
+    "PTK",
+    "UNK",
+    "V"
+  ],
+  "neg_prefix":"!",
+  "overwrite":false
+}
